@@ -304,4 +304,4 @@ const CreateChannelModal = ({ onClose }) => {
     );
 };
 
-export default CreateChannelModal
+export default CreateChannelModal;
